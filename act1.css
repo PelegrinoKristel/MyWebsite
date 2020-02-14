@@ -1,0 +1,31 @@
+*{
+    background-color: #292929;
+}
+.Pelegrino{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-family: "Helvetica";
+    color: white;
+}
+.Pelegrino h1{
+    font-size: 30px;
+    margin: 30px;
+}
+
+.welcome {
+    font-family: "Helvetica";
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    text-align: center;
+    
+}
+.topshape{
+    padding: 200px;
+    background-color:#008B96;
+}
